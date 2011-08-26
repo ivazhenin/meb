@@ -1,0 +1,38 @@
+<form id="redactorInsertPersonForm" method="post" action="" enctype="multipart/form-data">
+<table class="redactor_ruler">
+	<tr>
+		<td style=""><a href="" target="_blank" id="redactor_image_edit_src">ФИО</a></td>
+		<td><input id="redactor_FIO" style='width:100%;' /></td>
+	</tr>
+	<tr>
+		<td nowrap class="small">Фото</td>
+		<td><form id='file' method="post" action='/admin/persimgup' enctype="multipart/form-data"><input name='file' type="file" style='width:100%;' /></form></td>
+	</tr>
+	<tr>
+		<td nowrap class="small">Специализация</td>
+		<td width="100%"><input id="redactor_sp" style='width:100%;' /></td>
+	</tr>
+	<tr>
+		<td nowrap class="small">Телефон</td>
+		<td width="100%"><input id="redactor_tel" style='width:100%;' /></td>
+	</tr>
+	<tr>
+		<td nowrap class="small">Моб. тел.</td>
+		<td width="100%"><input id="redactor_mtel" style='width:100%;' /></td>
+	</tr>
+	<tr>
+		<td nowrap class="small">ICQ</td>
+		<td width="100%"><input id="redactor_icq" style='width:100%;' /></td>
+	</tr>
+	<tr>
+		<td nowrap class="small">E-mail</td>
+		<td width="100%"><input id="redactor_email" style='width:100%;' /></td>
+	</tr>
+</table>
+
+
+<p>
+<input type="button" name="save" id="redactorSaveBtn" value="%RLANG.save%" />&nbsp;&nbsp;
+<input type="button" name="" onclick="redactorActive.modalClose();" value="%RLANG.cancel%"  />
+</p>
+</form>

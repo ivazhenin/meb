@@ -1,0 +1,61 @@
+﻿body, html { width: 100%; height: 100%; margin: 0; padding: 0; border: none; outline: none; }
+body { background-color: #аaaaаа; }
+* { margin: 0; padding: 0; color: #000; border: none; outline: none; }
+p { font: 10pt Arial; }
+a { color: inherit; text-decoration: none; }
+h1 { padding: 2px 10px; font: 14pt Arial; text-align: center; border: 1px solid #999; background: #466; color: #fff; }
+.round { border-radius: 10px; -webkit-border-radius: 10px; -moz-border-radius: 10px; -khtml-border-radius: 15px; }
+input, textarea { padding: 2px 5px; border: 1px solid #000; background: #f4f4f4; }
+input[type='text'], textarea { width: 95%; }
+input[type='submit'], input[type='button'] { margin: 20px 5px 2px 0; }
+
+#elapsed { position: absolute; right: 5px; bottom: 5px; font: 8pt Arial; }
+#auth { width: 300px; height: 200px; background: #777; margin: 200px auto 0; }
+.auth1 { margin: 10px; padding-top: 10px; }
+.auth1 p { display: block; }
+.auth1 label { width: 150px; display: block; float: left; }
+.auth1 input { color: #000; }
+.auth1 input[type="submit"] { padding: 2px 10px; }
+
+.left { position: absolute; left: 0; top: 0; width: 200px; border-right: 1px solid #aaa; margin-right: 5px; margin-top: 3px; }
+.left ul li { margin: 0 3px 2px; display: block; }
+.left ul li a { display: block; text-decoration: none; background: #466; font: bold 10pt Verdana; padding: 3px 5px; color: #eee; border-radius: 5px; -webkit-border-radius: 5px; -moz-border-radius: 5px; -khtml-border-radius: 5px; }
+.left ul li ul { }
+.left ul li ul li { padding-left: 10px; }
+.left ul li ul li a { font: 8pt Verdana; background: transparent; color: Black; }
+
+.break { float: none; clear: both; }
+.msg { background: #eee; color: Red; font: 10pt Tahoma; border: 1px solid red; min-height: 30px; overflow: visible; padding: 2px 5px 5px 40px; }
+
+.center { margin-left: 205px; }
+.center .toolbar { background: #ddd; height: 30px; margin-bottom: 5px; }
+.center .content { }
+.center .content * { font: 10pt Verdana; }
+.center .content li { list-style: disk; margin-left: 20px; color: #0a0; }
+.center .content a { text-decoration: none; color: #449; }
+.center .content div.img_list { }
+.center .content div.img_list a { display: block; margin: 2px; float: left; }
+.center .content div.img_list a img.sel { outline: 1px solid #0a0; }
+.center .content div.img_list a img { }
+.center .content div.img_edit img { float: left; margin-right: 10px; margin-bottom: 10px; }
+.center .content div.img_edit code { border: 1px solid black; padding: 2px 10px 5px; margin: 2px 0; display: inline-block; }
+.center .content div.img_edit form { clear: both; }
+.center .content div.news_list table { border-collapse: collapse; border: 1px solid black; }
+.center .content div.news_list td { border-collapse: collapse; border: 1px solid black; padding: 2px 5px; }
+.center .content div.news_list td a { font-weight: bold; }
+.center .content div.news_list td strong { font-weight: bold; color: #a44; }
+.center .content div.news_list ul a.pub0 { color: #a44; }
+
+.ban_list .banners { width: 150px; height: 220px; float: left;margin:2px;outline: 1px solid Red;text-align:center; }
+.ban_list .sh1 {outline: 1px solid Green;}
+.ban_list a {color:#00f;}
+
+.templates_list ul {}
+.templates_list ul li { margin:5px;}
+
+.tbl {border-collapse:collapse;}
+.tbl tr {}
+.tbl tr td {border:1px solid black;padding:3px 10px;text-align:center;}
+
+.help {border:2px solid Green;padding:3px 10px;margin-top:3px;}
+                    

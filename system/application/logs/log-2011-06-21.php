@@ -1,0 +1,37 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2011-06-21 16:06:15 --> 404 Page Not Found --> favicon.ico
+ERROR - 2011-06-21 16:07:39 --> 404 Page Not Found --> favicon.ico
+ERROR - 2011-06-21 16:07:43 --> Severity: Notice  --> Undefined property: image_editor::$form_validation C:\Apache2.2\Users\CodeIgniter\system\application\controllers\image_editor.php 67
+ERROR - 2011-06-21 16:08:26 --> 404 Page Not Found --> favicon.ico
+ERROR - 2011-06-21 16:10:44 --> 404 Page Not Found --> favicon.ico
+ERROR - 2011-06-21 16:10:44 --> 404 Page Not Found --> image_editor/Fatal%20error:%20Cannot%20use%20object%20of%20type%20stdClass%20as%20array%20in%20C:
+ERROR - 2011-06-21 16:11:06 --> 404 Page Not Found --> favicon.ico
+ERROR - 2011-06-21 16:11:06 --> 404 Page Not Found --> image_editor/Fatal%20error:%20Cannot%20use%20object%20of%20type%20stdClass%20as%20array%20in%20C:
+ERROR - 2011-06-21 16:11:20 --> 404 Page Not Found --> favicon.ico
+ERROR - 2011-06-21 16:11:20 --> 404 Page Not Found --> image_editor/images
+ERROR - 2011-06-21 16:11:22 --> 404 Page Not Found --> favicon.ico
+ERROR - 2011-06-21 16:11:22 --> 404 Page Not Found --> image_editor/images
+ERROR - 2011-06-21 16:11:52 --> 404 Page Not Found --> favicon.ico
+ERROR - 2011-06-21 16:11:52 --> 404 Page Not Found --> image_editor/images
+ERROR - 2011-06-21 16:11:53 --> 404 Page Not Found --> favicon.ico
+ERROR - 2011-06-21 16:11:53 --> 404 Page Not Found --> image_editor/images
+ERROR - 2011-06-21 16:11:54 --> 404 Page Not Found --> favicon.ico
+ERROR - 2011-06-21 16:11:54 --> 404 Page Not Found --> image_editor/images
+ERROR - 2011-06-21 16:11:57 --> 404 Page Not Found --> image_editor/images
+ERROR - 2011-06-21 16:12:41 --> 404 Page Not Found --> favicon.ico
+ERROR - 2011-06-21 16:12:42 --> 404 Page Not Found --> image_editor/images
+ERROR - 2011-06-21 16:14:14 --> 404 Page Not Found --> favicon.ico
+ERROR - 2011-06-21 16:14:14 --> 404 Page Not Found --> image_editor/images
+ERROR - 2011-06-21 16:14:34 --> 404 Page Not Found --> favicon.ico
+ERROR - 2011-06-21 16:15:04 --> 404 Page Not Found --> favicon.ico
+ERROR - 2011-06-21 16:15:47 --> 404 Page Not Found --> favicon.ico
+ERROR - 2011-06-21 16:18:03 --> 404 Page Not Found --> favicon.ico
+ERROR - 2011-06-21 16:18:41 --> 404 Page Not Found --> favicon.ico
+ERROR - 2011-06-21 16:19:21 --> 404 Page Not Found --> favicon.ico
+ERROR - 2011-06-21 16:46:30 --> 404 Page Not Found --> favicon.ico
+ERROR - 2011-06-21 16:49:46 --> 404 Page Not Found --> favicon.ico
+ERROR - 2011-06-21 16:58:16 --> 404 Page Not Found --> favicon.ico
+ERROR - 2011-06-21 16:58:29 --> 404 Page Not Found --> favicon.ico
+ERROR - 2011-06-21 17:07:06 --> 404 Page Not Found --> favicon.ico
+ERROR - 2011-06-21 17:07:28 --> 404 Page Not Found --> favicon.ico

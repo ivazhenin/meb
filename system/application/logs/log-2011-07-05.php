@@ -1,0 +1,31 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2011-07-05 12:29:48 --> 404 Page Not Found --> showimage.php
+ERROR - 2011-07-05 12:29:48 --> 404 Page Not Found --> favicon.ico
+ERROR - 2011-07-05 12:29:52 --> Severity: Warning  --> mysql_pconnect(): MySQL server has gone away C:\Apache2.2\Users\CodeIgniter\system\database\drivers\mysql\mysql_driver.php 88
+ERROR - 2011-07-05 12:33:03 --> 404 Page Not Found --> favicon.ico
+ERROR - 2011-07-05 12:36:00 --> 404 Page Not Found --> favicon.ico
+ERROR - 2011-07-05 12:36:14 --> 404 Page Not Found --> favicon.ico
+ERROR - 2011-07-05 12:36:42 --> 404 Page Not Found --> favicon.ico
+ERROR - 2011-07-05 12:36:55 --> 404 Page Not Found --> favicon.ico
+ERROR - 2011-07-05 12:37:09 --> 404 Page Not Found --> favicon.ico
+ERROR - 2011-07-05 12:37:18 --> 404 Page Not Found --> favicon.ico
+ERROR - 2011-07-05 12:37:41 --> 404 Page Not Found --> favicon.ico
+ERROR - 2011-07-05 12:38:21 --> 404 Page Not Found --> favicon.ico
+ERROR - 2011-07-05 12:39:51 --> 404 Page Not Found --> favicon.ico
+ERROR - 2011-07-05 12:40:00 --> 404 Page Not Found --> favicon.ico
+ERROR - 2011-07-05 12:41:17 --> 404 Page Not Found --> favicon.ico
+ERROR - 2011-07-05 12:42:36 --> 404 Page Not Found --> favicon.ico
+ERROR - 2011-07-05 12:43:18 --> 404 Page Not Found --> favicon.ico
+ERROR - 2011-07-05 12:43:40 --> 404 Page Not Found --> favicon.ico
+ERROR - 2011-07-05 12:46:26 --> 404 Page Not Found --> favicon.ico
+ERROR - 2011-07-05 12:48:24 --> 404 Page Not Found --> favicon.ico
+ERROR - 2011-07-05 12:50:25 --> 404 Page Not Found --> favicon.ico
+ERROR - 2011-07-05 12:54:05 --> 404 Page Not Found --> favicon.ico
+ERROR - 2011-07-05 12:54:14 --> 404 Page Not Found --> favicon.ico
+ERROR - 2011-07-05 12:54:31 --> 404 Page Not Found --> favicon.ico
+ERROR - 2011-07-05 12:54:52 --> 404 Page Not Found --> favicon.ico
+ERROR - 2011-07-05 12:56:16 --> 404 Page Not Found --> favicon.ico
+ERROR - 2011-07-05 12:56:57 --> 404 Page Not Found --> favicon.ico
+ERROR - 2011-07-05 15:42:11 --> 404 Page Not Found --> favicon.ico
+ERROR - 2011-07-05 15:42:11 --> 404 Page Not Found --> showimage.php

@@ -1,0 +1,54 @@
+﻿body, html { width: 100%; height: 100%; background: #9e9e9e; margin: 0; padding: 0; }
+* { margin: 0; padding: 0; line-height: 1em; letter-spacing: normal; }
+a, h1, h2, h3, h4, p, span, strong, b, div, td, tr, table, li { font: 10pt Arial; }
+table { table-layout: fixed; }
+td,tr,table { border-collapse: collapse; border: none; }
+
+.body { width: 960px; margin: 0 auto; background: #fff; }
+.top { height: 150px; background: url(../img/top.jpg); margin-bottom: 5px; position:relative;}
+.top div {position:absolute;right:20px;bottom:10px;text-align:right;}
+.top div p {color:#fff;font:13pt Arial;margin-bottom:5px;}
+.top div span {font:bold 16pt/25px Arial;color:#fff;vertical-align:bottom;}
+.center { }
+.center h1 { font: 14pt Arial; text-align: center; margin: 10px 20px 20px; }
+.center .prod { margin: 2px 20px; position: relative; }
+.center .prod h2 { font: bold 14px Arial; background: #f08143; color: #fff; padding: 4px 10px; margin-bottom: 10px; }
+.center .prod table { width: 100%; margin-bottom:20px; }
+.center .prod .foto { width: 172px; background: url(../img/line-l.gif) repeat-x left bottom; }
+.center .prod .foto img { width: 150px; height: 150px; border: 2px solid #9e9e9e; margin-left: 21px; }
+.center .prod .price { width: 200px; vertical-align: top; }
+.center .prod .price p { width: 100%; position: relative; font: bold 16pt/40px Arial; border-bottom: 2px solid #f08143; background: #ececec; color: #e31e24; text-align: center; display: block; }
+.center .prod .price span { position: absolute; right: 5px; bottom: 2px; display: block; color: #9e9e9e; }
+.center .prod .price div { margin-left: 20px; border: 1px solid #c6c6c6; margin-top: 5px; text-align: center; color: #e31e24; font: bold 7pt Arial; padding:3px 2px; }
+.center .prod .nal { width: 200px; padding-left: 15px; vertical-align: top; }
+.center .prod .nal h2 { background: #ececec; padding: 2px 10px; color: #9e9e9e; font: 10pt Arial; border-bottom: 1px solid #f08143; margin-bottom: 8px; }
+.center .prod .nal div { padding: 2px 10px; border: 1px solid #c6c6c6; }
+.center .prod .nal div h3 { text-align:center;font:20pt Arial; }
+.center .prod .nal div h4 { text-align:center;font:12pt Arial; margin-bottom:5px; }
+.center .prod .nal div p span { color:#9e9e9e;display:inline-block; width:70px; }
+.center .prod .nal div p strong { font:12pt Arial; color:#9e9e9e; }
+.center .prod .par { padding-left: 15px; vertical-align: top; width: 300px; }
+.center .prod .par h2 { background: #ececec; padding: 2px 10px; color: #9e9e9e; font: 10pt Arial; border-bottom: 1px solid #f08143; margin-bottom: 8px; }
+.center .prod .par div { padding: 2px 10px; border: 1px solid #c6c6c6; }
+.center .prod .par div span { display: inline-block; width: 90px; color: #9e9e9e; }
+.center .prod .par div strong { display: inline-block; font: 12pt Arial; }
+.center .prod .art {vertical-align:top;}
+.center .prod .art p { background: #ececec; padding: 2px 0px 2px 30px; }
+.center .prod .art p span { display: inline-block; width: 80px; font: 10pt/20px Arial; color: #9e9e9e; }
+.center .prod .art p strong { color: #9e9e9e; }
+.center .prod .fotos { padding-left: 10px; background:url(../img/line-r.gif); }
+.center .prod .fotos img { outline: 2px solid #ececec; width: 50px; height: 50px; margin-left: 10px; }
+.bottom { height: 140px; background: url(../img/bot.jpg); margin-top: 10px; padding: 10px 20px; }
+.bottom .left { }
+.bottom .left p { color: #fff; margin: 1px; font-weight: bold; }
+.bottom .left div { margin: 0; background: #fff; padding: 5px; margin-right: 280px; }
+.bottom .left div h2 { font: bold 8pt Arial; }
+.bottom .left div ol { list-style-position: inside; }
+.bottom .left div ol li { font: 8pt Arial; margin-bottom: 8px; }
+.bottom .left div p { font: 8pt Arial; color: #000; }
+.bottom .right { float: right; width: 260px; }
+.bottom .right p { color: #fff; margin: 1px; font-weight: bold; }
+.bottom .right div { margin: 0; background: #fff; padding: 5px; }
+.bottom .right div h2 { font: 8pt Arial; margin-bottom: 10px; }
+.bottom .right div span { width: 70px; display: inline-block; color: #9e9e9e; }
+.bottom .right div strong { font: bold 14pt Arial; vertical-align: baseline; }

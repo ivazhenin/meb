@@ -1,0 +1,152 @@
+1311103495TS---><!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <title>О компании</title>
+  <meta name="title" content="О компании" />
+  <meta name="keywords" content="" />
+  <meta name="description" content="" />
+  <link rel="stylesheet" href="/css/sitestyle.css" type="text/css" />
+  <!--[if lte IE 6]><link rel="stylesheet" href="Css/style_ie.css" type="text/css" media="screen, projection" /><![endif]-->
+  <script src="/js/jquery-1.6.1.min.js" type="text/javascript"></script>
+  <script src="/js/jquery.imageZoom.js" type="text/javascript"></script>
+  <link href="/css/jquery.imageZoom.css" rel="stylesheet" type="text/css" />
+  <script src="/js/jquery.swfobject.1-1-1.min.js" type="text/javascript"></script>
+  <script src="/js/jquery.form.js" type="text/javascript"></script>
+  <script src="/js/jquery.validate.min.js" type="text/javascript"></script>
+  <link href="/css/jquery-ui-1.8.12.custom.css" rel="stylesheet" type="text/css" />
+  <script src="/js/jquery-ui-1.8.13.custom.min.js" type="text/javascript"></script>
+  <script type="text/javascript">
+    var pg  = 1;
+  </script>
+  <script type="text/javascript">
+    $(function () {
+      size();
+      $(window).resize(size);
+      jQuery(document.body).imageZoom();
+    });
+
+    function size() {
+      var height = Math.max($('#container').height(), $('#sideLeft').height(), $('#sideRight').height());
+      $('#container').height(height);
+      $('#sideLeft').height(height);
+      $('#sideRight').height(height);
+      $('#wrapper').css('background-position', 'right ' + ($('#wrapper').height() - 70 - 170) + 'px');
+    }
+  </script>
+</head>
+<body>
+  <div id="wrapper">
+    <div id="header">
+      <a href="index.php"> <span class="logotext">Оптимальный вариант</span> 
+<br/> <span>логистическая компания</span></a> 
+
+<div class="text"><span>Междугородние  грузоперевозки, негабарит: (383) <span>363-08-73</span></span>
+<br/>        <span>Междугородние грузоперевозки, спецтехника : (383) <span>363-08-43</span></span>
+<br/>        <span>Сборные грузы: (383) <span>286-74-52</span></span></div>
+    </div>
+    <!-- #header-->
+    <div id="menu">
+      <div class='mid'>
+        <ul><li class='menu menu35'><a class='lnk' href='/welcome/index/35'>Истории</a><div class='menu35'><ul><li><a class='lnk1' href='/welcome/index/36'>Service with a Smile 1/2</a></li><li><a class='lnk1' href='/welcome/index/43'>To Become a Furrie</a></li><li><a class='lnk1' href='/welcome/index/38'>Plushie Form: Hands-on Training (Part 1)</a></li><li><a class='lnk1' href='/welcome/index/45'>Donkeys Life</a></li><li><a class='lnk1' href='/welcome/index/47'>CosPlay Experiments</a></li><li><a class='lnk1' href='/welcome/index/48'>Toy store</a></li></ul></div>
+				<script type="text/javascript">
+					$(document).ready(function(){
+						$('li.menu35').hover(function(){
+							$('div.menu35').css('visibility', 'visible');
+							$('div.menu35').slideDown();
+						}, function () {
+							$('div.menu35').slideUp('fast');
+						});
+					});
+				</script>
+			</li></ul></div>
+    </div>
+    <!-- #header-->
+    <div id="middle">
+      <div id="container">
+        <div id="content">
+          <div class='editor' edtbl='{$table}' ednum='{$id}' edfield='content'>
+            <h1>О компании</h1>
+<ul>
+	<li><a href="http://opti-trans.ru/index.php?pg=2">Общая информация</a></li>
+	<li><a href="http://opti-trans.ru/index.php?pg=3">Работа в компании</a></li>
+</ul>
+
+<p><span></span></p>
+
+<div class="emp"><img src="showimage.php?id=3"/><h4></h4><span>(городские, междугородние перевозки)</span>
+<ul>
+	<li>Тел./факс: (383) 000-00-00</li>
+	<li>ICQ: 000-000-000</li>
+	<li>Эл.почта: <a href="mailto:@">@</a></li>
+</ul></div></div>
+        </div>
+        <!-- #content-->
+      </div>
+      <!-- #container-->
+      <div class="sidebar" id="sideLeft">
+        <ul><li class='vmenu vmenu35'><a class='link' href='/welcome/index/35'>Истории</a><ul class='vmenu35'><li><a href='/welcome/index/36'>Service with a Smile 1/2</a><ul class='vmenu36'><li><a href='/welcome/index/37'>Service with a Smile 2/2</a><ul class='vmenu37'></ul></li></ul></li><li><a href='/welcome/index/38'>Plushie Form: Hands-on Training (Part 1)</a><ul class='vmenu38'><li><a href='/welcome/index/39'>Plushie Form: Hands-on Training (Part 2)</a><ul class='vmenu39'></ul></li><li><a href='/welcome/index/40'>Plushie Form: Hands-on Training (Part 3)</a><ul class='vmenu40'></ul></li><li><a href='/welcome/index/41'>A Family of Stars (Sirius' Story Part 4)</a><ul class='vmenu41'></ul></li><li><a href='/welcome/index/42'>A Family of Stars (Sirius' Story part 5)</a><ul class='vmenu42'></ul></li></ul></li><li><a href='/welcome/index/43'>To Become a Furrie</a><ul class='vmenu43'></ul></li><li><a href='/welcome/index/45'>Donkeys Life</a><ul class='vmenu45'></ul></li><li><a href='/welcome/index/46'>Puppy Love</a><ul class='vmenu46'></ul></li><li><a href='/welcome/index/47'>CosPlay Experiments</a><ul class='vmenu47'></ul></li><li><a href='/welcome/index/48'>Toy store</a><ul class='vmenu48'></ul></li></ul></li><li class='vmenu vmenu24'><a class='link' href='/welcome/index/24'>Полезная информация</a><ul class='vmenu24'><li><a href='/welcome/index/1'>О компании</a><ul class='vmenu1'><li><a href='/welcome/index/31'>qwe</a><ul class='vmenu31'></ul></li><li><a href='/welcome/index/20'>Дополнительные услуги</a><ul class='vmenu20'></ul></li><li><a href='/welcome/index/6'>Сборные грузы</a><ul class='vmenu6'></ul></li><li><a href='/welcome/index/2'>Общая информация</a><ul class='vmenu2'></ul></li><li><a href='/welcome/index/19'>Спецтехника</a><ul class='vmenu19'></ul></li><li><a href='/welcome/index/18'>Негабаритные грузы</a><ul class='vmenu18'></ul></li><li><a href='/welcome/index/21'>Дополнительные услуги </a><ul class='vmenu21'></ul></li><li><a href='/welcome/index/17'>Сборные грузы</a><ul class='vmenu17'></ul></li><li><a href='/welcome/index/8'>Спецтехника</a><ul class='vmenu8'></ul></li><li><a href='/welcome/index/7'>Негабаритные грузы</a><ul class='vmenu7'></ul></li><li><a href='/welcome/index/34'>1q1q1q</a><ul class='vmenu34'></ul></li><li><a href='/welcome/index/16'>Грузоперевозки от 1,5т. до 20т.</a><ul class='vmenu16'></ul></li><li><a href='/welcome/index/32'>qwe</a><ul class='vmenu32'></ul></li><li><a href='/welcome/index/5'>Грузоперевозки от 1,5т. до 20т.</a><ul class='vmenu5'></ul></li><li><a href='/welcome/index/44'>123</a><ul class='vmenu44'></ul></li></ul></li></ul></li></ul>
+      </div>
+      <!-- .sidebar#sideLeft -->
+      <div class="sidebar" id="sideRight">
+        <div>
+          <h1>
+            консультанты</h1>
+          <span>Междугородние грузоперевозки</span><br>          
+<span style="vertical-align: middle; font: 12pt Arial;">
+            <img src="http://status.icq.com/online.gif?icq=592293354&amp;img=5" alt="" style="vertical-align: middle;">592-293-354</span><br>
+          <br>
+
+<span>Междугородние грузоперевозки, грузчики</span><br>
+          <span style="vertical-align: middle; font: 12pt Arial;">
+            <img src="http://status.icq.com/online.gif?icq=601122885&amp;img=5" alt="" style="vertical-align: middle;">601-122-885</span><br><br>
+
+<span>Грузоперевозки, спецтехника, негабарит</span><br>
+          <span style="vertical-align: middle; font: 12pt Arial;">
+            <img src="http://status.icq.com/online.gif?icq=637952439&amp;img=5" alt="" style="vertical-align: middle;">637-952-439</span><br>
+          <br>
+
+<span>Cборные грузы</span><br>
+          <span style="vertical-align: middle; font: 12pt Arial;">
+            <img src="http://status.icq.com/online.gif?icq=564977529&amp;img=5" alt="" style="vertical-align: middle;">564-977-529</span><br>
+
+        </div>
+        <div>
+          <h1>
+            <a href="/welcome/index/28">on-line запрос</a></h1>
+        </div>
+        <div>
+          <banner url='/bann/4e08263f16f8d.jpg' type='jpg'></banner><script type='text/javascript'> $(document).ready(function () { $('banner').each(function () { switch($(this).attr('type')) { case 'swf': $(this).flash( { swf:$(this).attr('url'), width:$(this).width() }); break; case 'jpg':case 'png': $('<img/>').attr('src', $(this).attr('url')).css('width','160px').appendTo($(this));break; } }); }); </script></div>
+      </div>
+      <!-- .sidebar#sideRight -->
+    </div>
+    <!-- #middle-->
+  </div>
+  <!-- #wrapper -->
+  <div id="footer">
+    <div style='float: left; width: auto; margin: 10px 0 0 10px;'>
+      <!-- Yandex.Metrika counter -->
+<div style="display:none;"><script type="text/javascript">
+(function(w, c) {
+    (w[c] = w[c] || []).push(function() {
+        try {
+            w.yaCounter7429786 = new Ya.Metrika({id:7429786, enableAll: true});
+        }
+        catch(e) { }
+    });
+})(window, 'yandex_metrika_callbacks');
+</script></div>
+<script src="//mc.yandex.ru/metrika/watch.js" type="text/javascript" defer="defer"></script>
+<noscript><div><img src="//mc.yandex.ru/watch/7429786" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+© 2011 ООО "Оптимальный вариант"<br>
+      Сайт изготовлен ООО "ТАПИР"</div>
+    <div style='float: right; width: auto; margin: 10px 10px 0 10px;'>
+      <p><span style="font-weight: bold;">Центральный офис:</span> г.Новосибирск, ул. Красный проспект, 82, офис 304</p><p><span style="font-weight: bold;">Дополнительный офис, склад:</span> г.Новосибирск, ул. Большевистская, 177, офис 416</p><p>
+<span style="font-weight: bold;">Режим работы:</span>  Понедельник - Пятница, с 9:00 до 18:00.</p></div>
+  </div>
+  <!-- #footer -->
+</body>
+</html>

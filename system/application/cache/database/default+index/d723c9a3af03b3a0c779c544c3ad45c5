@@ -1,0 +1,27 @@
+O:12:"CI_DB_result":8:{s:7:"conn_id";N;s:9:"result_id";N;s:12:"result_array";a:1:{i:0;a:9:{s:2:"id";s:1:"1";s:6:"parent";s:2:"24";s:3:"ord";s:1:"1";s:5:"title";s:19:"О компании";s:7:"content";s:525:"<h1>О компании</h1>
+<ul>
+	<li><a href="http://opti-trans.ru/index.php?pg=2">Общая информация</a></li>
+	<li><a href="http://opti-trans.ru/index.php?pg=3">Работа в компании</a></li>
+</ul>
+
+<p><span></span></p>
+
+<div class="emp"><img src="showimage.php?id=3"/><h4></h4><span>(городские, междугородние перевозки)</span>
+<ul>
+	<li>Тел./факс: (383) 000-00-00</li>
+	<li>ICQ: 000-000-000</li>
+	<li>Эл.почта: <a href="mailto:@">@</a></li>
+</ul></div>";s:4:"menu";s:1:"0";s:9:"titlepage";s:0:"";s:8:"keywords";s:0:"";s:11:"description";s:0:"";}}s:13:"result_object";a:1:{i:0;O:8:"stdClass":9:{s:2:"id";s:1:"1";s:6:"parent";s:2:"24";s:3:"ord";s:1:"1";s:5:"title";s:19:"О компании";s:7:"content";s:525:"<h1>О компании</h1>
+<ul>
+	<li><a href="http://opti-trans.ru/index.php?pg=2">Общая информация</a></li>
+	<li><a href="http://opti-trans.ru/index.php?pg=3">Работа в компании</a></li>
+</ul>
+
+<p><span></span></p>
+
+<div class="emp"><img src="showimage.php?id=3"/><h4></h4><span>(городские, междугородние перевозки)</span>
+<ul>
+	<li>Тел./факс: (383) 000-00-00</li>
+	<li>ICQ: 000-000-000</li>
+	<li>Эл.почта: <a href="mailto:@">@</a></li>
+</ul></div>";s:4:"menu";s:1:"0";s:9:"titlepage";s:0:"";s:8:"keywords";s:0:"";s:11:"description";s:0:"";}}s:20:"custom_result_object";a:0:{}s:11:"current_row";i:0;s:8:"num_rows";i:1;s:8:"row_data";N;}
